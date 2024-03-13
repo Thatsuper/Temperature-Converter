@@ -1,0 +1,51 @@
+#title {
+    font-size: 5em;
+}
+
+#result {
+    font-size: 10em;
+}
+
+#toFahrenheitLabel {
+    font-size: 2em;
+}
+
+#toCelsiusLabel {
+    font-size: 2em;
+}
+
+#toFahrenheit {
+    width: 20px;
+    height: 20px;
+}
+
+#toCelsius {
+    width: 20px;
+    height: 20px;
+}
+
+#input {
+    padding: 10px 10px;
+    font-size: 2em;
+    border-radius: 20px ;
+}
+
+form {
+    background-color: rgb(99, 99, 99);
+    border-radius: 40px;
+    box-shadow: 10px 10px,10px 10px;
+}
+
+body {
+    background-color: rgb(119, 119, 119);
+}
+
+button {
+    width: 200px;
+    height: 70px;
+    border-radius: 10px;
+    border-width: 3px;
+    font-size: 2em;
+    background-color: rgb(87, 182, 103);
+    border-color: rgb(19, 206, 35);
+}
